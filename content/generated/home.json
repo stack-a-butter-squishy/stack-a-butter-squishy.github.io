@@ -1,0 +1,180 @@
+{
+  "enabled": true,
+  "slug": "",
+  "pageType": "home",
+  "title": "Stack A Butter Squishy Wiki: All Roblox Game Guides",
+  "description": "Find your way around Stack A Butter Squishy on Roblox with game links, beginner help, codes information, pets, money, wax guides, and update tracking resources.",
+  "navVisible": true,
+  "hero": {
+    "eyebrow": "Stack A Butter Squishy Wiki & Guide",
+    "heading": "Stack A Butter Squishy Wiki & Roblox Game Guide",
+    "lead": "Stack A Butter Squishy is a Roblox ASMR simulation game where you pull a lever to generate random squishies, dip them in wax, and stack them on your plate to earn passive income. Squishies continue making money and wax keeps pouring even when you're offline. This wiki covers the core loop, codes status, pets, wax mechanics, money strategies, and update tracking to help you build your collection efficiently.",
+    "supportingText": "",
+    "primaryLink": {
+      "label": "Open Codes",
+      "slug": "codes"
+    },
+    "secondaryLink": {
+      "label": "Open official game page",
+      "url": "https://www.roblox.com/games/80959592833753"
+    }
+  },
+  "sections": [
+    {
+      "id": "game-facts-official-roblox-entry-point-and-resource-links",
+      "heading": "Game Facts, Official Roblox Entry Point, and Resource Links",
+      "intro": "Stack A Butter Squishy is an ASMR simulation game on Roblox where players pull a lever to spawn random squishies, dip them in wax cups, and watch them jump onto a plate to generate passive income. The official Roblox listing confirms the game's unique mechanic: wax continues pouring and squishies keep earning money even when you're offline, making it a true idle experience.",
+      "paragraphs": [
+        "Find the official game page by searching \"Stack A Butter Squishy\" on Roblox or visiting the creator's profile. This wiki provides focused guides for codes, pets, money optimization, and update tracking. Use the beginner guide for step-by-step instructions on your first session, the money guide for income strategies, and the pets page to compare collection options."
+      ],
+      "table": {
+        "caption": "Stack A Butter Squishy Quick Reference & Progression Overview",
+        "columns": [
+          "Progression Stage",
+          "Core Objective",
+          "Key Mechanic",
+          "Player Priority"
+        ],
+        "rows": [
+          [
+            "Early Game Setup",
+            "Learn Stack A Butter Squishy core loop",
+            "Initial resource & starter unlock",
+            "Complete tutorial loop before spending currency"
+          ],
+          [
+            "Mid Game Scaling",
+            "Unlock higher multiplier tiers",
+            "Loadout / upgrade synergy",
+            "Focus on repeatable milestones and efficiency"
+          ],
+          [
+            "Endgame & Updates",
+            "Bosses, events, and new worlds",
+            "High-tier drops & patch preparation",
+            "Track official update logs and optimize builds"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "how-to-play-stack-a-butter-squishy-beginner-roadmap",
+      "heading": "How to Play Stack A Butter Squishy: Beginner Roadmap",
+      "intro": "Start each cycle by walking to the lever and pulling it to spawn a random squishy. The lever generates one squishy at a time, so you'll repeat this step as you expand your stack. Once the squishy appears, pick it up and carry it to the nearest wax cup. Place the squishy into the cup and wait while wax pours over it—this step adds the finishing coating that prepares it for your plate.",
+      "paragraphs": [
+        "When the waxing animation finishes, the completed squishy automatically jumps onto your plate and begins generating money passively. You don't need to collect each coin manually; the squishy produces income continuously as long as it remains on your plate. Repeat the lever-wax-plate sequence to add more squishies to your stack, and your total passive income climbs with every new addition.",
+        "Both wax pouring and income generation continue running even when you close the game. You'll return to accumulated earnings and any squishies that were mid-wax will have finished their coating cycle during your absence. This offline progression lets you grow your collection and bank balance without staying logged in around the clock."
+      ],
+      "steps": [
+        {
+          "heading": "Check Current Stack A Butter Squishy Requirements",
+          "description": "Review the active mechanics and prerequisites inside Stack A Butter Squishy before committing resources."
+        },
+        {
+          "heading": "Complete the Core Progression Loop",
+          "description": "Follow the primary objective sequence to unlock the next multiplier, zone, or equipment slot."
+        },
+        {
+          "heading": "Verify Post-Update Changes",
+          "description": "Re-check the comparison table and official Stack A Butter Squishy patch notes whenever a new update drops."
+        }
+      ]
+    },
+    {
+      "id": "money-upgrade-planning-and-offline-earnings",
+      "heading": "Money, Upgrade Planning, and Offline Earnings",
+      "intro": "Once a squishy lands on your plate, it generates money automatically without further input. You collect the accumulated currency to buy cooler squishies from the lever pool, which typically earn at higher rates. Wax continues pouring and squishies keep earning even when you close the game, so you return to a stockpile of cash after offline sessions. This passive system rewards consistent logins and lets casual players progress without active grinding.",
+      "paragraphs": [
+        "Early spending should prioritize expanding your plate capacity and unlocking higher-tier squishies that accelerate income. The money guide breaks down which upgrades deliver the best return and how to balance squishy variety against raw earning power as your collection grows."
+      ]
+    },
+    {
+      "id": "squishy-collection-rarity-guides-and-tier-list-criteria",
+      "heading": "Squishy Collection, Rarity Guides, and Tier List Criteria",
+      "intro": "As you earn money from your stacked squishies, you unlock the ability to purchase cooler and rarer squishies. The core appeal of Stack A Butter Squishy is building a diverse collection—each pull of the lever generates a random squishy, and over time you'll encounter different designs and varieties. Spending your passive income on new squishies keeps the gameplay loop engaging and gives you concrete progression milestones beyond just plate size.",
+      "paragraphs": [
+        "The game features multiple squishy types and rarity tiers. Rather than all squishies being identical, the randomness on each lever pull means you'll gradually discover the full roster. Players often compare which squishies are worth prioritizing based on aesthetics, earning potential, or collection completion. A tier list helps you understand which squishies offer the best value relative to their cost and which are collector-only picks. Check the tier list guide for detailed comparisons and the criteria used to rank them—such factors typically include visual appeal, how quickly they earn money, and rarity.",
+        "Your collection strategy directly impacts your income growth. Unlocking higher-tier squishies usually requires reaching certain money milestones, so understanding which purchases accelerate your earnings versus which are cosmetic choices helps you plan your spending. As you progress, revisit the money guide to optimize which squishies to prioritize first."
+      ]
+    },
+    {
+      "id": "waxing-and-common-gameplay-problems",
+      "heading": "Waxing and Common Gameplay Problems",
+      "intro": "After pulling the lever, carry your squishy to a wax cup and watch the wax pour over it. Once the waxing animation finishes, the squishy automatically jumps onto your plate and begins generating passive income. You do not need to manually move squishies from the cup to the plate—the game handles that transition for you.",
+      "paragraphs": [
+        "Wax continues pouring on squishies and your plate keeps earning money even when you close the game. When you return, you will collect the offline earnings that accumulated during your absence. This means you can safely log off between sessions without losing progress or stopping your income flow."
+      ]
+    },
+    {
+      "id": "approved-player-needs",
+      "eyebrow": "Guides & Wiki",
+      "heading": "Explore Stack A Butter Squishy Guides & Resources",
+      "intro": "Browse our dedicated Stack A Butter Squishy guides covering active redeem codes, beginner progression, tier lists, and core gameplay mechanics.",
+      "links": [
+        {
+          "label": "Stack A Butter Squishy Codes",
+          "slug": "codes",
+          "description": "Check Stack A Butter Squishy codes information, official announcement sources, redemption availability, troubleshooting steps, and ways to spot fake code."
+        },
+        {
+          "label": "Stack A Butter Squishy Pets",
+          "slug": "pets",
+          "description": "Explore Stack A Butter Squishy pets with acquisition guidance, comparison criteria, upgrade planning, collection tracking, and links to relevant gameplay."
+        },
+        {
+          "label": "Stack A Butter Squishy Beginner Guide",
+          "slug": "beginner-guide",
+          "description": "Learn how to play Stack A Butter Squishy with a beginner walkthrough covering controls, squishy selection, waxing, cash collection, goals, and common mistakes."
+        },
+        {
+          "label": "Stack A Butter Squishy Money",
+          "slug": "money",
+          "description": "Understand Stack A Butter Squishy money with cash collection guidance, income comparisons, upgrade planning, boost checks, offline earnings, and spending tips."
+        },
+        {
+          "label": "Stack A Butter Squishy Update",
+          "slug": "updates",
+          "description": "Track Stack A Butter Squishy update announcements, patch history, gameplay changes, release timing, official sources, and a checklist for returning to the game."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "question": "Where is the official Stack A Butter Squishy game on Roblox?",
+      "answer": "The official Roblox listing is titled Stack A Butter Squishy and describes itself as a squishy-stacking ASMR game. Search for the exact name on Roblox or use the game link provided in the resource links section above to join directly."
+    },
+    {
+      "question": "How do you start playing Stack A Butter Squishy?",
+      "answer": "Pull the lever to generate a random squishy, then take your squishy to a wax cup and wait for the wax to pour. Once the waxing finishes, the squishy jumps onto your plate and begins earning money automatically. Use that money to buy cooler squishies and expand your stack."
+    },
+    {
+      "question": "Does Stack A Butter Squishy currently have redeemable codes?",
+      "answer": "No verified active codes have been corroborated by independent sources at this time. Check the dedicated codes page linked above for the latest status, redemption instructions, and official social channels where codes are announced when they become available."
+    }
+  ],
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.roblox.com/games/80959592833753",
+      "title": "[🎃] 🧈 Stack A Butter Squishy [ASMR]",
+      "sourceType": "official"
+    },
+    {
+      "url": "https://stackabuttersquishy.wiki/",
+      "title": "Stack A Butter Squishy",
+      "sourceType": "guide"
+    },
+    {
+      "url": "https://stack-a-butter-squishy.wiki/",
+      "title": "Stack A Butter Squishy",
+      "sourceType": "guide"
+    },
+    {
+      "url": "https://www.roblox.com/games/80959592833753",
+      "title": "Stack A Butter Squishy Official Mechanics & Early-Bird Reference",
+      "sourceType": "guide"
+    }
+  ],
+  "lastReviewed": "2026-11-10"
+}
